@@ -1,1 +1,14 @@
-hi there - this is new 
+This is the recipe for Apple Pie:
+
+1- Apples
+2- Flour 
+3- Sugar 
+4- Butter
+
+Instructions: 
+
+1- Mix all ingredients in a bowl 
+2- Pour mixed ingredients into a deep pan 
+3- Place pan in an oven
+4- cook for 30 minutes on 375 'F
+5- Serve 
